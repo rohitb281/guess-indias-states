@@ -106,7 +106,7 @@ Contains all states not guessed — useful for revision.
 
 ---
 
-$$ 🚀 Possible Improvements
+## 🚀 Possible Improvements
 - Add timer mode
 - Add score persistence
 - Add hints system
